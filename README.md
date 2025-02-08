@@ -1,2 +1,2 @@
 # firstrepo-demo
-this is my first repository
+this is my repository for java codes in sem1
